@@ -2,6 +2,7 @@ library(shiny)
 library(plotly)
 library(readxl)
 library(FactoMineR)
+library(shinydashboard)
 # library(factoextra)
 # library(shinythemes)
 
